@@ -1,11 +1,9 @@
 import React from 'react';
-import Nav from '../components/Nav';
 
 const SliceMastersPage = () => (
-  <div>
-    <Nav />
+  <section>
     <p>Slice Masters!</p>
-  </div>
+  </section>
 );
 
 export default SliceMastersPage;

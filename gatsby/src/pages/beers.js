@@ -1,5 +1,5 @@
 import React from 'react';
 
-const BeersPage = () => <div>Beers!</div>;
+const BeersPage = () => <section>Beers!</section>;
 
 export default BeersPage;

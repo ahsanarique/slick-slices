@@ -1,9 +1,9 @@
 import React from 'react';
 
 const PizzasPage = () => (
-  <div>
+  <section>
     <p>Pizzas!</p>
-  </div>
+  </section>
 );
 
 export default PizzasPage;

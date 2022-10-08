@@ -1,9 +1,9 @@
 import React from 'react';
 
 const OrderPage = () => (
-  <div>
+  <section>
     <p>Order!</p>
-  </div>
+  </section>
 );
 
 export default OrderPage;
